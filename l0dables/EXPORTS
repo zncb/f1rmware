@@ -1,4 +1,4 @@
-delay
+delayNop
 getInput
 getInputRaw
 getInputWait
@@ -48,3 +48,17 @@ batteryGetVoltage
 drawHLine
 drawVLine
 drawRectFill
+readTextFile
+writeFile
+drawLine
+fsInfo
+fsUsage
+lcdGetCrsrY
+lcdMoveCrsr
+DoRect
+DoLine
+DoCube
+DoMesh
+getMeshSizes
+getMesh
+readFile
